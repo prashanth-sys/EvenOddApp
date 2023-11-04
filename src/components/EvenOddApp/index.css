@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 39px;
+}
+.button {
+  color: #1e293b;
+  font-family: 'Roboto';
+  height: 45px;
+  width: 100px;
+  border-width: 0px;
+  font-weight: 500;
+  border-radius: 5px;
+}
